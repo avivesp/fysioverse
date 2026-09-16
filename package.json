@@ -1,0 +1,12 @@
+{
+  "name": "fysioverse",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Fysioverse — Physiotherapy Practice Tycoon",
+  "scripts": {
+    "build": "node -e \"console.log('Fysioverse static frontend build ready')\""
+  },
+  "dependencies": {
+    "convex": "latest"
+  }
+}
